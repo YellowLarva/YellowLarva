@@ -1,8 +1,9 @@
 Hello 👋 there, I am Navneet Chauhan.
 <hr>
 
-:green_book: I’m interested in Web Development and Analysis <br>
-:desktop_computer: I’m currently upgrading my web Development skills through Developing Projects <br>
+:green_book: I’m a Data Analytics enthusiast.  <br>
+📊 I love doing data analysis.<br>
+:desktop_computer: I’m currently upgrading my Analytic skills through Developing Projects and Domain knowledge.<br>
 
 
 <!---
